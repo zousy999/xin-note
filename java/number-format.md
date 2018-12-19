@@ -1,5 +1,4 @@
 ```java
-
     public static String format(Number number,String pattern,RoundingMode mode){
         if(number == null) return "0";
         DecimalFormat decimalFormat = new DecimalFormat(pattern);
