@@ -7,5 +7,7 @@
 
 4. ctrl + F4 关闭当前窗口
 
+5. ctrl+z / ctrl+shift+z 撤销 /回退撤销
+
 
 
