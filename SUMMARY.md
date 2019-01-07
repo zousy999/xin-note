@@ -4,6 +4,7 @@
 
 * [number format](java/number-format.md)
 * [mybatis 转义字符](java/mybatis-zhuan-yi-zi-fu.md)
+* [idea 快捷键](java/idea-kuai-jie-jian.md)
 
 ## javascript/html/css
 
