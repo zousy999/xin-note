@@ -12,8 +12,6 @@
 > `set @@sql_mode = 'ERROR_FOR_DIVISION_BY_ZERO'`
 > `set @@session.sql_mode = 'NO_AUTO_CREATE_USER'`
 
-
-
 2.
 
 
