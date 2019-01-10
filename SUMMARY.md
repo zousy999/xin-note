@@ -14,5 +14,7 @@
 
 ## 数据库
 
+* [mysql 常用](shu-ju-ku/mysql-chang-yong.md)
+
 ## 其他
 
