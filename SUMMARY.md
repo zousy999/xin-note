@@ -15,7 +15,8 @@
 
 ## 数据库
 
-* [mysql 常用](shu-ju-ku/mysql-chang-yong.md)
+* [mysql 模式设置](shu-ju-ku/mysql-chang-yong.md)
+* [mysql字符函数](shu-ju-ku/mysqlzi-fu-han-shu.md)
 
 ## 其他
 
