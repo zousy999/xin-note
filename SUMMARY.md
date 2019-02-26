@@ -6,6 +6,7 @@
 * [mybatis 转义字符](java/mybatis-zhuan-yi-zi-fu.md)
 * [idea 快捷键](java/idea-kuai-jie-jian.md)
 * [spring注入](java/springzhu-ru.md)
+* [tomcat管理页配置](java/tomcatguan-li-ye-pei-zhi.md)
 
 ## javascript/html/css
 
