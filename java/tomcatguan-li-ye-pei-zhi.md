@@ -1,4 +1,4 @@
-1. 配置管理角色  `conf/tomcat-users.xml`
+* 配置管理角色  `conf/tomcat-users.xml`
 
 ```
 <tomcat-users>
@@ -8,9 +8,7 @@
 </tomcat-users>
 ```
 
-
-
-2.修改访问全选，如无新建 `conf/Catalina/localhost/manager.xml`
+* 修改访问全选，如无新建 `conf/Catalina/localhost/manager.xml`
 
 ```
 <Context privileged="true" antiResourceLocking="false"
