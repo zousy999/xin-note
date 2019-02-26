@@ -8,7 +8,7 @@
 </tomcat-users>
 ```
 
-* 修改访问全选，如无新建 `conf/Catalina/localhost/manager.xml`
+* 修改访问权限，如无新建 `conf/Catalina/localhost/manager.xml`
 
 ```
 <Context privileged="true" antiResourceLocking="false"
