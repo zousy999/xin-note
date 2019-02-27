@@ -8,6 +8,10 @@
 * [spring注入](java/springzhu-ru.md)
 * [tomcat管理页配置](java/tomcatguan-li-ye-pei-zhi.md)
 
+## java基础
+
+* [java平台特性](javaji-chu/javaping-tai-te-xing.md)
+
 ## javascript/html/css
 
 * [Introduction](README.md)
