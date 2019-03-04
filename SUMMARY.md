@@ -12,6 +12,10 @@
 
 * [java平台特性](javaji-chu/javaping-tai-te-xing.md)
 
+## java进阶
+
+* [数值表达式](javajin-jie/shu-zhi-biao-da-shi.md)
+
 ## javascript/html/css
 
 * [Introduction](README.md)
