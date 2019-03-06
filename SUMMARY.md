@@ -11,6 +11,7 @@
 ## java基础
 
 * [java平台特性](javaji-chu/javaping-tai-te-xing.md)
+* [访问修饰符](javaji-chu/fang-wen-xiu-shi-fu.md)
 
 ## java进阶
 
