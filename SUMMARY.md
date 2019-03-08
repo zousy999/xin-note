@@ -7,6 +7,7 @@
 * [idea 快捷键](java/idea-kuai-jie-jian.md)
 * [spring注入](java/springzhu-ru.md)
 * [tomcat管理页配置](java/tomcatguan-li-ye-pei-zhi.md)
+* [idea 激活码](java/idea-ji-huo-ma.md)
 
 ## java基础
 
