@@ -18,6 +18,7 @@
 
 * [6.4 final修饰符](feng-kuang-java-jiang-yi/64-finalxiu-shi-fu.md)
 * [6.5 抽象类](feng-kuang-java-jiang-yi/65-chou-xiang-lei.md)
+* [6.6 接口](feng-kuang-java-jiang-yi/66-jie-kou.md)
 
 ## java进阶
 
