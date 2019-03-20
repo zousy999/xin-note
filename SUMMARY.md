@@ -17,6 +17,7 @@
 ## 疯狂java讲义
 
 * [6.4 final修饰符](feng-kuang-java-jiang-yi/64-finalxiu-shi-fu.md)
+* [6.5 抽象类](feng-kuang-java-jiang-yi/65-chou-xiang-lei.md)
 
 ## java进阶
 
