@@ -14,6 +14,10 @@
 * [java平台特性](javaji-chu/javaping-tai-te-xing.md)
 * [访问修饰符](javaji-chu/fang-wen-xiu-shi-fu.md)
 
+## 疯狂java讲义
+
+* [6.4 final修饰符](feng-kuang-java-jiang-yi/64-finalxiu-shi-fu.md)
+
 ## java进阶
 
 * [数值表达式](javajin-jie/shu-zhi-biao-da-shi.md)
