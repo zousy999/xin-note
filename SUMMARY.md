@@ -35,6 +35,7 @@
 * [mysql 时间处理](shu-ju-ku/mysql-shi-jian-chu-li.md)
 * [mysql 模式设置](shu-ju-ku/mysql-chang-yong.md)
 * [mysql字符函数](shu-ju-ku/mysqlzi-fu-han-shu.md)
+* [mysql 连接命令](shu-ju-ku/mysql-lian-jie-ming-ling.md)
 
 ## 其他
 
